@@ -36,7 +36,7 @@ const HEADLESS_LAUNCHERS = {
   'FirefoxHeadless': {
     base: 'Firefox',
     flags: ['-headless'],
-  }
+  },
 };
 
 const SAUCE_LAUNCHERS = {
