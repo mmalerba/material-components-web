@@ -115,3 +115,4 @@ export {MDCRipple as default, MDCRipple, util};
 export * from './adapter';
 export * from './foundation';
 export * from './types';
+export * from './constants';
