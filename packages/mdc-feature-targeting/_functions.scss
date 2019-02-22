@@ -91,7 +91,7 @@
 
   @return (
     op: without,
-    queries: ($feature-query)
+    queries: append((), $feature-query)
   );
 }
 
